@@ -33,9 +33,7 @@ No internet connection is required. The timer creates its own local Wi-Fi networ
 ## YouTube
 
 📺 **Watch the project demo:**  
-[Smart Offline Programmable Timer Switch Using ESP8266 and RTC](https://youtube.com/shorts/wJGOkK_HlXM)
-
-[![Watch the demo on YouTube](img/img.png)](https://youtube.com/shorts/wJGOkK_HlXM)
+▶️ [Watch the Smart Timer Switch Demo on YouTube](https://youtube.com/shorts/wJGOkK_HlXM)
 
 
 ## Main Blocks
