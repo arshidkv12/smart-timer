@@ -19,7 +19,7 @@ No internet connection is required. The timer creates its own local Wi-Fi networ
 
 ### Prototype
 
-![Smart Timer Switch](images/smart-timer.jpg)
+![Smart Timer Switch](images/prototype.png)
 
 ### Circuit Diagram
 
@@ -27,7 +27,7 @@ No internet connection is required. The timer creates its own local Wi-Fi networ
 
 ### Web Configuration
 
-![Web Configuration](images/web-interface.png)
+![Web Configuration](images/web.png)
 
 ## Main Blocks
 
