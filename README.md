@@ -38,7 +38,7 @@ The project mainly consists of four blocks:
 3. **Real-Time Clock (RTC)** – Keeps track of time
 4. **Voltage Regulator** – Provides the required regulated voltage
 
-<img src="img/block-diagram.png" alt="Block Diagram" width="500">
+<img src="images/block-diagram.png" alt="Block Diagram" width="500">
 
 ## How It Works
 
