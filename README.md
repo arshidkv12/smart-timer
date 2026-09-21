@@ -106,7 +106,7 @@ The relay will automatically switch the connected load according to the configur
 │   └── pcb.png
 ├── PCB/
 ├── README.md
-└── rtc-project-report.pages
+└── project-report.pages
 ```
 
 ## License
