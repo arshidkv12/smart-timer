@@ -110,4 +110,3 @@ The relay will automatically switch the connected load according to the configur
 ## License
 
 This project is open source. See the `LICENSE` file for details.
-# smart-timer
