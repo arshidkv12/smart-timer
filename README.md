@@ -1,4 +1,4 @@
-# Smart Offline Programmable Timer Switch Using ESP8266 and RTC
+# Smart Timer Switch Using ESP8266 and RTC
 
 A simple **Wi-Fi programmable timer switch** based on **ESP8266 and RTC**. It can automatically turn a connected device ON and OFF according to a configured schedule.
 
