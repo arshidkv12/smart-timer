@@ -23,12 +23,12 @@ No internet connection is required. The timer creates its own local Wi-Fi networ
 
 ### Circuit Diagram
 
-<img src="images/circuit-diagram.png" alt="Circuit Diagram" width="500">
+<img src="images/circuit-diagram.png" alt="Circuit Diagram" width="700">
 
 
 ### Web Configuration
 
-<img src="images/web.png" alt="Web Configuration" width="350">
+<img src="images/web.png" alt="Web Configuration" width="300">
 
 
 ## Main Blocks
